@@ -2,22 +2,22 @@
 
 > In this section, you can write about what you accomplished in the previous week.
 
-> This past week, I was able to implement the the dialog box for creating a new user in the front end. I \
-> learned how to send requests in JavaScript to the backend API.
+> This past week, I did a bunch of research on hardware sensors and servers to figure out what would be best \
+> for our situation. After confirming the capabilities of the all of the hardware, I ordered all of the hardware \
+> parts we need in order to get started on prototyping.
 
 ## This Week's Plan
 
 > In this section, you can write about what you have planned for next week.
 
-> After my accomplishments from last week, I plan to add accessibility features to the user creation dialog box. \
-> I also plan on attending the git workshop this week.
+> Next week, we plan on starting the prototyping process for the hardware system of our project.
 
 ## Anything Blocking?
 
 > In this section, you can write about any blockers that you are having trouble in the project.
 
-> I don't know how to test the accessibility features I am going to be implementing this week, so i am going to \
-> ask my mentors if they have any suggestions.
+> The only thing blocking us right now is the shipping of the hardware. We can't work on prototyping until the \
+> sensors and Raspberry pi are here.
 
 ## Notes
 
